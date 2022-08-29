@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GhOstOP007
 - 👀 I’m interested in ... Web development
 - 🌱 I’m currently learning ...DSA and Algo ((C++,C,Java)
-- I'm goingto learn ... JavaScript , HTML , CSS.
+- I'm going to learn ... JavaScript , HTML , CSS.
 - Android Studio
 - 📫 How to reach me ...
